@@ -7,11 +7,11 @@ application.
 
 # R Notebooks
 
-## Dataminimg
+## Datamining
 
 This is an example R notebook demonstrating the use of the R `datamining` package on github.
 
-[Lab 9](https://paulemms.github.io/lab9.nb.html)
+[Lab 9](https://paulemms.github.io/notebooks/lab9.nb.html)
 
 Notebooks can also be viewed direct from the github source repository using the github HTML viewer
 although Javascript functionality is lost.
