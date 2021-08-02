@@ -1,4 +1,4 @@
-I am a data scientist and quantitative modeller with broad experience in the
+I am a data scientist and quantitative modeller with broad experience in
 central banking, IT and academia. 
 
 My open source project work can be found in my 
@@ -6,6 +6,8 @@ My open source project work can be found in my
 I have built as part of this work.
 
 # Jupyter Notebooks
+
+## MOLA
 
 Github can view Jupyter Notebooks directly from the source repository. Here is an example from my
 [LCA](https://github.com/paulemms/LCA/wiki) application.
