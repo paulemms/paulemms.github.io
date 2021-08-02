@@ -1,7 +1,14 @@
+I am a data scientist and quantitative modeller with broad experience in the
+central banking, IT and academia. 
+
+My open source project work can be found in my 
+[github repository](https://github.com/paulemms). The links below show some of the notebooks that
+I have built as part of this work.
+
 # Jupyter Notebooks
 
-Github can view Jupyter Notebooks directly. Here is an example from my [LCA](https://github.com/paulemms/LCA/wiki)
-application.
+Github can view Jupyter Notebooks directly from the source repository. Here is an example from my
+[LCA](https://github.com/paulemms/LCA/wiki) application.
 
 [AIMMS Tutorial](https://github.com/paulemms/LCA/blob/master/notebooks/AIMMS_Tutorial_Example.ipynb)
 
