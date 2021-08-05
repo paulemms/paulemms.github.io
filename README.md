@@ -7,16 +7,16 @@ I have built as part of this work.
 
 # Jupyter Notebooks
 
-## MOLA
+Github can view Jupyter Notebooks directly from the git source repository. 
 
-Github can view Jupyter Notebooks directly from the source repository. Here is an example from my
-[LCA](https://github.com/paulemms/LCA/wiki) application.
-
-[AIMMS Tutorial](https://github.com/paulemms/LCA/blob/master/notebooks/AIMMS_Tutorial_Example.ipynb)
+* [Easy21](https://github.com/paulemms/Easy21Silver/blob/master/Easy21.ipynb) demonstrates my implementation of
+the assignment on the Reinforcement Learning course at UCL given by David Silver. More information on the
+problem can be found in the [source repository](https://github.com/paulemms/Easy21Silver).
+* [AIMMS Tutorial](https://github.com/paulemms/LCA/blob/master/notebooks/AIMMS_Tutorial_Example.ipynb): This an example
+from my [LCA](https://github.com/paulemms/LCA/wiki) application that solves a distribution problem using
+linear programming.
 
 # R Notebooks
-
-## Datamining
 
 This is an example R notebook demonstrating the use of the R `datamining` package on github.
 
