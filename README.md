@@ -19,5 +19,6 @@ linear programming.
 # R Notebooks
 
 * [Lab 9](https://paulemms.github.io/notebooks/lab9.html) is an example R notebook
-demonstrating the use of my R `datamining` package on github.
+demonstrating the use of my R [datamining](https://github.com/paulemms/datamining) 
+package on github.
 
