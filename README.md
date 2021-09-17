@@ -2,12 +2,10 @@ I am a data scientist and quantitative modeller with broad experience in
 central banking, IT and academia. 
 
 My open source project work can be found in my 
-[github repository](https://github.com/paulemms). The links below show some of the notebooks that
-I have built as part of this work.
+[github repository](https://github.com/paulemms). The links below show some notebooks that
+apply the code to particular problems.
 
 # Jupyter Notebooks
-
-Github can view Jupyter Notebooks directly from the git source repository. 
 
 * [Easy21](https://github.com/paulemms/Easy21Silver/blob/master/Easy21.ipynb) demonstrates my implementation of
 the assignment on the Reinforcement Learning course at UCL given by David Silver. More information on the
