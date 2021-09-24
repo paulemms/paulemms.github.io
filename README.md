@@ -2,8 +2,7 @@ I am a data scientist and quantitative modeller with broad experience in
 central banking, IT, and academia. 
 
 My open source project work can be found in my 
-[github repository](https://github.com/paulemms). The links below show some notebooks that
-apply the code to particular problems.
+[github repository](https://github.com/paulemms). The links below show examples.
 
 # Shiny Modules
 
