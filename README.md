@@ -1,9 +1,15 @@
 I am a data scientist and quantitative modeller with broad experience in
-central banking, IT and academia. 
+central banking, IT, and academia. 
 
 My open source project work can be found in my 
 [github repository](https://github.com/paulemms). The links below show some notebooks that
 apply the code to particular problems.
+
+# Shiny Modules
+
+* [ShinyBricks](https://paul-emms.shinyapps.io/shinyBricks): The R package `shinyWidgets` has a shiny module to display a dependent group of 
+`pickerInputs`. My module is more general since it returns a list of widgets that can be styled and it
+deals with multiple selections which is harder to do in general.
 
 # Jupyter Notebooks
 
