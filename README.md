@@ -6,7 +6,7 @@ My open source project work can be found in my
 
 # Shiny Modules
 
-* [ShinyBricks](https://paul-emms.shinyapps.io/shinyBricks): The R package `shinyWidgets` has a shiny module to display a dependent group of 
+* [ShinyBricks](http://3eeae56.online-server.cloud:3838/apps/shinyBricks/): The R package `shinyWidgets` has a shiny module to display a dependent group of 
 `pickerInputs`. My module is more general since it returns a list of widgets that can be styled and it
 deals with multiple selections which is harder to do in general.
 
