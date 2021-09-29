@@ -4,11 +4,16 @@ central banking, IT, and academia.
 My open source project work can be found in my 
 [github repository](https://github.com/paulemms). The links below show examples.
 
-## Shiny Modules
+## Shiny
 
-* [ShinyBricks](http://3eeae56.online-server.cloud:3838/apps/shinyBricks/): The R package `shinyWidgets` has a shiny module to display a dependent group of 
+[ShinyBricks](http://3eeae56.online-server.cloud:3838/apps/shinyBricks/) is my collection of shiny components
+for building advanced analytics. It includes the following functionality:
+
+* DependentInputs: The R package `shinyWidgets` has a shiny module to display a dependent group of 
 `pickerInputs`. My module is more general since it returns a list of widgets that can be styled and it
 deals with multiple selections which is harder to do in general.
+* Provenance: This is an S4 class that records the changes to shiny input widgets. It can be used to determine
+which inputs generated output such as a plot. 
 
 ## Jupyter Notebooks
 
