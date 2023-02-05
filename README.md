@@ -18,7 +18,7 @@ which inputs generated output such as a plot.
 ## R Packages
 
 * I have ported a [BASIC](https://github.com/paulemms/basic) interpreter to R built on the `rly` (R) and `ply` (Python) packages.
-This demonstrates how a simple sub-language can be built into R for scripting. There is a demo on [ShinyBricks](http://3eeae56.online-server.cloud:3838/apps/shinyBricks/).
+This demonstrates how a domain specific language (DSL) can be built into R for high-level scripting. There is a demo on [ShinyBricks](http://3eeae56.online-server.cloud:3838/apps/shinyBricks/).
 * [Lab 9](https://paulemms.github.io/notebooks/lab9.html) is an example R notebook
 demonstrating the use of my R [datamining](https://github.com/paulemms/datamining) 
 package on github.
