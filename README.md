@@ -15,6 +15,14 @@ deals with multiple selections which is harder to do in general.
 * Provenance: This is an S4 class that records the changes to shiny input widgets. It can be used to determine
 which inputs generated output such as a plot. 
 
+## R Packages
+
+* [BASIC](https://github.com/paulemms/basic) This is a BASIC interpreter in R built on the `rly` (R) and `ply` (Python) packages.
+This demonstrates how a simple sub-language can be built in R for scripting. There is a demo on [ShinyBricks](http://3eeae56.online-server.cloud:3838/apps/shinyBricks/).
+* [Lab 9](https://paulemms.github.io/notebooks/lab9.html) is an example R notebook
+demonstrating the use of my R [datamining](https://github.com/paulemms/datamining) 
+package on github.
+
 ## Jupyter Notebooks
 
 * [Easy21](https://github.com/paulemms/Easy21Silver/blob/master/Easy21.ipynb) demonstrates my implementation of
@@ -24,9 +32,5 @@ problem can be found in the [source repository](https://github.com/paulemms/Easy
 an example from my [LCA](https://github.com/paulemms/LCA/wiki) application that solves a distribution
 problem using linear programming.
 
-## R Notebooks
 
-* [Lab 9](https://paulemms.github.io/notebooks/lab9.html) is an example R notebook
-demonstrating the use of my R [datamining](https://github.com/paulemms/datamining) 
-package on github.
 
