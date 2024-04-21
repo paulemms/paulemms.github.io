@@ -6,7 +6,7 @@ My open source project work can be found in my
 
 ## Shiny
 
-[ShinyBricks](http://109.228.61.191/:3838/apps/shinyBricks/) is my collection of shiny components
+[ShinyBricks](http://109.228.61.191:3838/apps/shinyBricks/) is my collection of shiny components
 for building advanced analytics. It includes the following functionality:
 
 * DependentInputs: The R package `shinyWidgets` has a shiny module to display a dependent group of 
