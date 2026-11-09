@@ -4,7 +4,7 @@ central banking, IT, and academia.
 My open source project work can be found in my 
 [github repository](https://github.com/paulemms). The links below show examples.
 
-## Vibe coding
+## AI-assisted software development
 * [Expenses](https://github.com/paulemms/expenses) implements a solution to an NP-hard combinatorial optimisation problem as well several heuristics. It was coded using Qwen Code and a local Lemonade Server running a variety of LLMs on a HX370/890M with 64Gb of shared RAM.
 
 ## Jupyter Notebooks
